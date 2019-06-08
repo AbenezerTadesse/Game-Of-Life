@@ -21,6 +21,7 @@ The first generation is created by applying the above rules simultaneously to ev
 Births and deaths occur simultaneously, and the discrete moment at which this happes is sometimes called a tick.
 In other words, each generation is a pure function of the preceding one. The rules continue to be applied repeatedly to create further generations. 
 
-The program allowes the user to set the canvas size or pick the default size of 30X30.
-User has the choice to either seed the canvas randomly or seed from a text file that has rows of *-*(dead) and *o*(alive). The number of rows and column in the text file must match the canvas grid size. The user can then run the HighLife or Game of Life simulaions for the desired number of generations.
-All the neccessary .h and .cpp files along with an example seeding text file are included. This program was developed on VS-2015 for University of Colorado Object Orieted Programing course as a final assigmnet in Fall 2016.
+The program allows the user to set the canvas size or pick the default size of 30X30.
+User has the choice to either seed the canvas randomly or seed from a text file that has rows of *-*(dead) and *o*(alive). The number of rows and column in the text file must match the canvas grid size. The user can then run the HighLife or Game of Life simulation for the desired number of generations.
+All the necessary .h and .cpp files along with an example seeding text file are included. This program was developed on VS-2015 for University of Colorado Object Oriented Programing course as a final assignment in Fall 2016.
+
